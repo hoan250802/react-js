@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hoan250802/react-js/static/css/main.18823fb1.css",
+    "main.js": "/hoan250802/react-js/static/js/main.0d25e6a0.js",
+    "static/js/787.9d576594.chunk.js": "/hoan250802/react-js/static/js/787.9d576594.chunk.js",
+    "index.html": "/hoan250802/react-js/index.html",
+    "main.18823fb1.css.map": "/hoan250802/react-js/static/css/main.18823fb1.css.map",
+    "main.0d25e6a0.js.map": "/hoan250802/react-js/static/js/main.0d25e6a0.js.map",
+    "787.9d576594.chunk.js.map": "/hoan250802/react-js/static/js/787.9d576594.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18823fb1.css",
+    "static/js/main.0d25e6a0.js"
+  ]
+}
